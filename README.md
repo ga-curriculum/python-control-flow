@@ -24,7 +24,7 @@ Use conditional statements to program logical decisions in Python, and learn how
 | Topic |  About |
 | ------ | ------ |
 |  [python-control-flow.ipynb](./01-control-flow/python-control-flow.ipynb) | Code-a-long |
-|  [Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/03-embeddings) | Jupyter notebook of 5 challenging exercises |
+|  [Exercises](./02-exercises/python-iteration-control-flow-exercises.ipynb) | Jupyter notebook of 5 challenging exercises |
 
 
 ## Prerequisites
