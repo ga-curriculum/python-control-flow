@@ -23,8 +23,8 @@ Use conditional statements to program logical decisions in Python, and learn how
 
 | Topic |  About |
 | ------ | ------ |
-|  [python-control-flow.ipynb](./01-control-flow/python-control-flow.ipynb) | Code-a-long |
-|  [Exercises](./02-exercises/python-iteration-control-flow-exercises.ipynb) | Jupyter notebook of 5 challenging exercises |
+|  [python-control-flow.ipynb](https://colab.research.google.com/github/ga-curriculum/python-control-flow/blob/main/01-control-flow/python-control-flow.ipynb){:target="_blank"} | Code-a-long |
+|  [Exercises](https://colab.research.google.com/github/ga-curriculum/python-control-flow/blob/main/02-exercises/python-iteration-control-flow-exercises.ipynb){:target="_blank"} | Jupyter notebook of 5 challenging exercises |
 
 
 ## Prerequisites
